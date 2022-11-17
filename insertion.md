@@ -10,17 +10,20 @@
 3. [2,6,16,18,22,27] => Üçüncü sayı 16'dır, sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. Dördüncü sayı 18'dir ve sıralamaya uygun olması için 22 ile yer değiştirir. Beşinci ve altıncı sayı sıralamaya uygun olduğundan sıralamada herhangi bir değişiklik yapılmaz.
 - - - 
 ##### 2) Big-O gösterimini yazınız.
-
-
+- Dizideki eleman sayısı n olsun. Big-O yöntemine göre sıralamada da yapacağımız işlem sayısı n olur.
+- 
+- - -
 ##### 3) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
 
+|
   -Average case: Aradığımız sayının ortada olması
   -Worst case: Aradığımız sayının sonda olması
   -Best case: Aradığımız sayının dizinin en başında olması.
-
+ | 
+- - -
 ##### 4) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-
+- - -
 
 
 * * *
