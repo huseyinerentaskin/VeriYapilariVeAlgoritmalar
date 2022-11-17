@@ -24,12 +24,12 @@
 - - -
 #### 3) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
 
-```
-- Average case: Aradığımız sayının ortada olması
-  - [.,.,18,.,.,.] 
-- Worst case: Aradığımız sayının sonda olması
-- Best case: Aradığımız sayının dizinin en başında olması
-```
+- ```Average case: Aradığımız sayının ortada olması```
+  - [.,.,.,18,.,.,.] 
+- ```Worst case: Aradığımız sayının sonda olması```
+  - [.,.,.,.,.,.,18]
+- ```Best case: Aradığımız sayının dizinin en başında olması```
+  - [18,.,.,.,.,.,.,]
 - - -
 #### 4) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
