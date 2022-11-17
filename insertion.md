@@ -1,4 +1,4 @@
-## [22,27,16,2,18,6] -> Insertion Sort
+# [22,27,16,2,18,6] -> Insertion Sort
 - - -
 ##### 1) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
@@ -16,3 +16,9 @@
   -Best case: Aradığımız sayının dizinin en başında olması.
 
 ##### 4) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+
+
+
+* * *
+[Patika.dev](https://www.patika.dev/tr)
