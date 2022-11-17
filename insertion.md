@@ -18,13 +18,7 @@
 - Dördüncü adımda üçüncü elemanı bulmak için ```(n-3)```-> 6-3=3 tane işlem,
 - Beşinci adımda dördüncü elemanı bulmak için ```(n-4)```-> 6-4=2 tane işlem yapılır.
 - Altı elemanlı dizi olduğu için daha fazla işlem yapılmasına gerek yoktur çünkü son eleman altıncı elemandır. 
-- Bu algoritmada ```n+(n-1)+(n-2)+(n-3)+(n-4)+1``` kadar işlem yapılır. Bu işlemin formülü:
-     ```
-     [n(n+1)]/2``` 
--Bu formül sadeleştirilerek: 
-```
-(n²+n)/2
-```
+- Bu algoritmada ```n+(n-1)+(n-2)+(n-3)+(n-4)+1``` kadar işlem yapılır. Bu işlemin formülü: ```[n(n+1)]/2```'dir. Bu formül sadeleştirilerek: ```(n²+n)/2``` elde edilir.
 - Big-O Notation'da kat sayı önemsizdir; yani domine eden fonksiyon ```n²``` alınır.
 #### Big-O değeri = O(n²)
 - - -
