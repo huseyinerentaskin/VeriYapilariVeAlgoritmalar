@@ -1,6 +1,7 @@
 # [22,27,16,2,18,6] -> Insertion Sort
+***
 
-# 1) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+1) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 [2,27,16,22,18,6] => 2 dizinin küçük sayısıdır, en başa alabilmek için 22 ile yer değiştirir.
 [2,6,16,22,18,27] => İkinci küçük sayı 6'dır ikinci sıraya almak için 27 ile yer değiştirir.
