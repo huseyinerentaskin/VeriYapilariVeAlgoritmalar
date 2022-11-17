@@ -1,1 +1,2 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# Veri Yapıları Ve Algoritmalar
+Patika.dev
