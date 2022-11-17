@@ -10,7 +10,7 @@
 3. [2,6,16,18,22,27] => Üçüncü sayı 16'dır, sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. Dördüncü sayı 18'dir ve sıralamaya uygun olması için 22 ile yer değiştirir. Beşinci ve altıncı sayı sıralamaya uygun olduğundan sıralamada herhangi bir değişiklik yapılmaz.
 - - - 
 #### 2) Big-O gösterimini yazınız.
-  ###### Dizideki eleman sayısı n olsun. Big-O yöntemine göre sıralamada da yapacağımız işlem sayısı n olur. Son işlem sayısı 1 olana kadar devam eder.
+  ###### Dizideki eleman sayısı n olsun. Big-O yöntemine göre sıralama yapılırken işlem sayısı da "n" olur. Son işlem sayısı 1 olana kadar devam eder.
 - [22,27,16,2,18,6] dizisinde 6 tane eleman vardır, yani 6 tane işlem yapılacaktır demektir.
   Şöyle ki 
 - ilk adımda n-> 6 tane işlem,
