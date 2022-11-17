@@ -5,9 +5,9 @@
 - - -
 #### 1) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-1. [2,27,16,22,18,6] => 2 dizinin küçük sayısıdır, en başa alabilmek için 22 ile yer değiştirir.
-2. [2,6,16,22,18,27] => İkinci küçük sayı 6'dır ikinci sıraya almak için 27 ile yer değiştirir.
-3. [2,6,16,18,22,27] => Üçüncü sayı 16'dır, sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. Dördüncü sayı 18'dir ve sıralamaya uygun olması için 22 ile yer değiştirir. Beşinci ve altıncı sayı sıralamaya uygun olduğundan sıralamada herhangi bir değişiklik yapılmaz.
+1. [2,27,16,22,18,6] -> 2 dizinin küçük sayısıdır, en başa alabilmek için 22 ile yer değiştirir.
+2. [2,6,16,22,18,27] -> İkinci küçük sayı 6'dır ikinci sıraya almak için 27 ile yer değiştirir.
+3. [2,6,16,18,22,27] -> Üçüncü sayı 16'dır, sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. Dördüncü sayı 18'dir ve sıralamaya uygun olması için 22 ile yer değiştirir. Beşinci ve altıncı sayı sıralamaya uygun olduğundan sıralamada herhangi bir değişiklik yapılmaz.
 - - - 
 #### 2) Big-O gösterimini yazınız.
 ###### Dizideki eleman sayısı n olsun. Big-O yöntemine göre sıralama yapılırken işlem sayısı da "n" olur. Son işlem sayısı 1 olana kadar devam eder.
