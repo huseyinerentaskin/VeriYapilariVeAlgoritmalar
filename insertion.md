@@ -26,7 +26,7 @@
 
 ```
 - Average case: Aradığımız sayının ortada olması
- -[.,.,18,.,.,.] 
+  - [.,.,18,.,.,.] 
 - Worst case: Aradığımız sayının sonda olması
 - Best case: Aradığımız sayının dizinin en başında olması
 ```
