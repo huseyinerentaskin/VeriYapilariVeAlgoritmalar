@@ -1,2 +1,2 @@
 # Veri Yapıları Ve Algoritmalar
-Patika.dev
+www.patika.dev
