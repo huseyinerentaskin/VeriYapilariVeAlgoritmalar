@@ -30,6 +30,8 @@
   - [.,.,.,.,.,.,18]
 - ```Best case: Aradığımız sayının dizinin en başında olması```
   - [18,.,.,.,.,.,.,]
+ 
+- [2,6,16,18,22,27] dizisine bakıldığında 18 sayısı ortada olduğu için ```Average Case``` kapsamına girer.
 - - -
 #### 4) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
